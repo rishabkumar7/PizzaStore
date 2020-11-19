@@ -17,6 +17,7 @@ export const NavLink = styled(Link)`
   align-items: center;
   text-decoration: none;
   cursor: pointer;
+
   @media screen and (max-width: 400px) {
     position: absolute;
     top: 10px;
@@ -31,6 +32,7 @@ export const NavIcon = styled.div`
   right: 0;
   cursor: pointer;
   color: #fff;
+
   p {
     transform: translate(-175%, 100%);
     font-weight: bold;

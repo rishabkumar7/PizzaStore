@@ -64,6 +64,7 @@ export const ProductButton = styled.button`
   background: #e31837;
   color: #fff;
   transition: 0.2 ease-out;
+
   &:hover {
     background: #ffc500;
     transition: 0.2s ease-out;
